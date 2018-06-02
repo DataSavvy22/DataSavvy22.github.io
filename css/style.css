@@ -21,6 +21,15 @@ body a {
 body a:hover {
 	text-decoration: none;
 }
+.imghvr-shutter-in-out-diag-2 img{
+	height:200px;
+	width:400px;
+}
+
+.team-agileits img{
+	height:262px;
+	width: 255px;
+}
 
 body a:focus, a:hover {
 	text-decoration: none;
@@ -809,6 +818,8 @@ p.sub-p {
 }
 p.about-p {
   font-size: 18px;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 .services-head-w3ls {
   padding: 40px 0;
@@ -1226,7 +1237,7 @@ text-transform:capitalize;
 .agileits-map {
   text-align: center;
   position: absolute;
-  top: 10%;
+  top: 400px;
   padding: 5em 3em 0;
   background: rgba(235, 82, 115, 0.84);
   left: 38%;
